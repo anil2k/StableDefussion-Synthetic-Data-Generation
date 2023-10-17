@@ -5,7 +5,7 @@
 
 ## Overview
 
-GroundingDino Auto Annotation is a computer vision project aimed at automating the annotation process for image datasets. This project leverages state-of-the-art object detection models to generate bounding box annotations for objects within images.
+The "StableDiffusion Synthetic Data Generation" project provides a practical and powerful tool for generating synthetic data using StableDiffusion, a generative model. Synthetic data generation is a crucial technique used across various domains, from machine learning and computer vision to data augmentation and testing
 
 ### Features
 
@@ -13,6 +13,11 @@ GroundingDino Auto Annotation is a computer vision project aimed at automating t
 - Supports multiple object detection.
 - Export annotations in Pascal VOC XML format.
 - Compatible with various image datasets.
+- Ease of Use: The repository includes code for generating synthetic images with minimal effort. The provided code demonstrates how to set up the environment and use StableDiffusion effectively.
+
+-Customization: Users can specify prompts to guide the image generation process. The code supports various parameters to fine-tune the generated images according to specific requirements.
+
+-Image Output: Generated images are saved in the specified output directory, making them readily available for further use, analysis, or integration into different projects
 
 ## Table of Contents
 
