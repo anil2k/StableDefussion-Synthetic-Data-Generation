@@ -14,10 +14,8 @@ The "StableDiffusion Synthetic Data Generation" project provides a practical and
 - Export annotations in Pascal VOC XML format.
 - Compatible with various image datasets.
 - Ease of Use: The repository includes code for generating synthetic images with minimal effort. The provided code demonstrates how to set up the environment and use StableDiffusion effectively.
-
--Customization: Users can specify prompts to guide the image generation process. The code supports various parameters to fine-tune the generated images according to specific requirements.
-
--Image Output: Generated images are saved in the specified output directory, making them readily available for further use, analysis, or integration into different projects
+- Customization: Users can specify prompts to guide the image generation process. The code supports various parameters to fine-tune the generated images according to specific requirements.
+- Image Output: Generated images are saved in the specified output directory, making them readily available for further use, analysis, or integration into different projects
 
 ## Table of Contents
 
