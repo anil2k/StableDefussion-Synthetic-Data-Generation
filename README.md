@@ -26,4 +26,4 @@ To install GroundingDino Auto Annotation, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/anil2k/groundingdino-auto-annotation.git
+   git clone https://github.com/anil2k/StableDefussion-Synthetic-Data-Generation.git
