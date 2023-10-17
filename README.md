@@ -1,6 +1,6 @@
 # GroundingDino Auto Annotation
 
-![Project Logo](ppe_annotated_image.jpg) <!-- Optional: Include a logo or illustration of your project -->
+![Project Logo](image.png) <!-- Optional: Include a logo or illustration of your project -->
 
 ## Overview
 
