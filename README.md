@@ -1,4 +1,5 @@
-# GroundingDino Auto Annotation
+# StableDefussion Synthetic Data Generation
+
 
 ![Project Logo](image.png) <!-- Optional: Include a logo or illustration of your project -->
 
