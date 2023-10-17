@@ -21,7 +21,7 @@ The "StableDiffusion Synthetic Data Generation" project provides a practical and
 
 <!-- Provide instructions on how to install and set up your project. Include any dependencies and system requirements. -->
 
-To install GroundingDino Auto Annotation, follow these steps:
+To install StableDiffusion Synthetic Data Generation, follow these steps:
 
 1. Clone the repository to your local machine:
 
